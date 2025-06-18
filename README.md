@@ -5,8 +5,11 @@ primarily with JavaScript, using React for the front-end and Node.js/Express for
 Instructor: Madam Sadia Maqbool
 
 Developers:
-M. Umar Farooq                M.Usman Qasim
-SP22-BCS-071                  SP22-BCS-073
+M. Umar Farooq                
+SP22-BCS-071
+
+M.Usman Qasim
+SP22-BCS-073
 
 Key Features:
 - Recipe Generation: Users can describe a desired recipe (e.g., "a spicy Asian-inspired lunch"), and the system generates suitable recipes with ingredients and instructions.
