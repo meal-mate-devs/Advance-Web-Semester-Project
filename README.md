@@ -5,7 +5,7 @@ primarily with JavaScript, using React for the front-end and Node.js/Express for
 Instructor: Madam Sadia Maqbool
 
 Developers:
-M. Umar Farooq                
+M. Umar Farooq
 SP22-BCS-071
 
 M.Usman Qasim
